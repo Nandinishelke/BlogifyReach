@@ -76,7 +76,7 @@ const Reg = () => {
         />
       </div>
       <form id="login">
-        <h1>Register</h1>
+        <h1>Register Page</h1>
         <br />
         <div className="form-outline mb-4">
           <input
